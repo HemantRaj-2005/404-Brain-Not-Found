@@ -2,7 +2,7 @@ E-commerce website
 Team Name: 404 Brain Not Found
 Team Members Name:
      1)HEMANT RAJ(https://github.com/HemantRaj-2005)
-     2)OJASWI SHUKLA(
+     2)OJASWI SHUKLA(https://github.com/Ojaswi2005)
      3)ARPITA MAURYA(
      4)VAIDEHI PATEL(
 Proposed Features:
